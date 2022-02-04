@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Available-movies-parser", "Available-movies-parser\Available-movies-parser.csproj", "{93AAEE0A-0196-4CB1-858C-F050933CA497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93AAEE0A-0196-4CB1-858C-F050933CA497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AAEE0A-0196-4CB1-858C-F050933CA497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AAEE0A-0196-4CB1-858C-F050933CA497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AAEE0A-0196-4CB1-858C-F050933CA497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD01A61-1B9B-4904-A7DA-0514B9619C1E}
+	EndGlobalSection
+EndGlobal

@@ -10,6 +10,9 @@ namespace Available_movies_parser
     {
         static void Main(string[] args)
         {
+            string address = "";
+            GetRequest request = new GetRequest(address);
+            request.Run();
         }
     }
 }
